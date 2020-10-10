@@ -1,0 +1,144 @@
+.grass-block{
+    background: rgb(0, 255, 13);
+    background: linear-gradient(180deg, rgb(0, 255, 85) 35%, rgb(4, 200, 249) 100%);
+    align-items: center;
+    justify-items: center;
+    border-radius: 5px;
+    padding: 1px 3px 3px 3px;
+    box-shadow: 0px 0px 2px #000;
+}
+.poison-block{
+    background: rgb(194,255,0);
+    background: linear-gradient(180deg, rgba(194,255,0,1) 4%, rgba(128,249,4,1) 100%);
+    align-items: center;
+    justify-items: center;
+    border-radius: 5px;
+    padding: 1px 3px 3px 3px;
+    box-shadow: 0px 0px 2px #000;
+}
+.fire-block{
+    background: rgb(255,111,0);
+    background: linear-gradient(180deg, rgb(255, 102, 0) 0%, rgba(249,49,4,1) 100%);
+    align-items: center;
+    justify-items: center;
+    border-radius: 5px;
+    padding: 1px 3px 3px 3px;
+    box-shadow: 0px 0px 2px #000;
+}
+.flying-block{
+    background: rgb(0,255,248);
+    background: linear-gradient(180deg, rgba(0,255,248,1) 0%, rgba(4,219,249,1) 100%);
+    align-items: center;
+    justify-items: center;
+    border-radius: 5px;
+    padding: 1px 3px 3px 3px;
+    box-shadow: 0px 0px 2px #000;
+}
+.water-block{
+    background: rgb(0,168,255);
+    background: linear-gradient(180deg, rgba(0,168,255,1) 0%, rgba(4,132,249,1) 100%);
+    align-items: center;
+    justify-items: center;
+    border-radius: 5px;
+    padding: 1px 3px 3px 3px;
+    box-shadow: 0px 0px 2px #000;
+}
+.bug-block{
+    background: rgb(255,124,0);
+    background: linear-gradient(180deg, rgba(255,124,0,1) 0%, rgba(249,156,4,1) 100%);
+    align-items: center;
+    justify-items: center;
+    border-radius: 5px;
+    padding: 1px 3px 3px 3px;
+    box-shadow: 0px 0px 2px #000;
+}
+.normal-block{
+    background: rgb(222,222,222);
+    background: linear-gradient(180deg, rgba(222,222,222,1) 0%, rgba(242,222,223,1) 100%);
+    align-items: center;
+    justify-items: center;
+    border-radius: 5px;
+    padding: 1px 3px 3px 3px;
+    box-shadow: 0px 0px 2px #000;
+}
+.electric-block{
+    background: rgb(225,251,2);
+    background: linear-gradient(180deg, rgba(225,251,2,1) 0%, rgba(255,230,0,1) 100%);
+    align-items: center;
+    justify-items: center;
+    border-radius: 5px;
+    padding: 1px 3px 3px 3px;
+    box-shadow: 0px 0px 2px #000;
+}
+.fairy-block{
+    background: rgb(251,2,145);
+    background: linear-gradient(180deg, rgba(251,2,145,1) 0%, rgba(255,0,241,1) 100%);
+    align-items: center;
+    justify-items: center;
+    border-radius: 5px;
+    padding: 1px 3px 3px 3px;
+    box-shadow: 0px 0px 2px #000;
+}
+.fighting-block{
+    background: rgb(251,89,2);
+    background: linear-gradient(180deg, rgba(251,89,2,1) 0%, rgba(255,0,0,1) 100%);
+    align-items: center;
+    justify-items: center;
+    border-radius: 5px;
+    padding: 1px 3px 3px 3px;
+    box-shadow: 0px 0px 2px #000;
+}
+.psychic-block{
+    background: rgb(106,2,251);
+    background: linear-gradient(180deg, rgba(106,2,251,1) 0%, rgba(188,0,255,1) 100%);
+    align-items: center;
+    justify-items: center;
+    border-radius: 5px;
+    padding: 1px 3px 3px 3px;
+    box-shadow: 0px 0px 2px #000;
+}
+.rock-block{
+    background: rgb(213,252,203);
+    background: linear-gradient(180deg, rgba(213,252,203,1) 0%, rgba(247,246,246,1) 100%);
+    align-items: center;
+    justify-items: center;
+    border-radius: 5px;
+    padding: 1px 3px 3px 3px;
+    box-shadow: 0px 0px 2px #000;
+}
+.steel-block{
+    background: rgb(247,252,203);
+    background: linear-gradient(180deg, rgba(247,252,203,1) 0%, rgba(247,246,246,1) 100%);
+    align-items: center;
+    justify-items: center;
+    border-radius: 5px;
+    padding: 1px 3px 3px 3px;
+    box-shadow: 0px 0px 2px #000;
+}
+.ice-block{
+    background: rgb(222,222,222);
+    background: linear-gradient(180deg, rgba(222,222,222,1) 0%, rgba(30,219,250,1) 100%);
+    align-items: center;
+    justify-items: center;
+    border-radius: 5px;
+    padding: 1px 3px 3px 3px;
+    box-shadow: 0px 0px 2px #000;
+}
+.ghost-block{
+    background: rgb(222,222,222);
+    background: linear-gradient(180deg, rgba(222,222,222,1) 0%, rgba(0,0,0,1) 100%);
+    align-items: center;
+    justify-items: center;
+    border-radius: 5px;
+    padding: 1px 3px 3px 3px;
+    box-shadow: 0px 0px 2px #000;
+}
+.ground-block{
+    background: rgb(209,110,11);
+    background: linear-gradient(180deg, rgba(209,110,11,1) 0%, rgb(255, 174, 1) 100%);  
+    align-items: center;
+    justify-items: center;
+    border-radius: 5px;
+    padding: 1px 3px 3px 3px;
+    box-shadow: 0px 0px 2px #000;
+}
